@@ -1,2 +1,2 @@
 # gy_gimbal_gui
-gy)gimbal gui manager for control calibration and status
+gy_gimbal gui manager for control calibration and status connect to gimbal controller via wifi, bt or serial
